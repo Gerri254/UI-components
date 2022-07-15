@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UI Types</string>
+    <string name="scrolling">SCROLLING</string>
+    <string name="start_stop">Start/Stop</string>
+</resources>
